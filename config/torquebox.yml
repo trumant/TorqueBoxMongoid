@@ -1,0 +1,7 @@
+web:
+  context: "/"
+ruby:
+  version: 1.9
+  debug: false
+environment:
+  RAILS_ENV: 'development'
